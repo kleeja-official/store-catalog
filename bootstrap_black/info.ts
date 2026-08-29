@@ -1,0 +1,27 @@
+import type { CatalogItem } from "../types"
+
+export default {
+    "type": "style",
+    "name": "bootstrap_black",
+    "icon": "https://raw.githubusercontent.com/kleeja-official/bootstrap-black/master/screenshot.png",
+    "title": {
+        "en": "Bootstrap Black",
+        "ar": "بوتسراب، النسخة السوداء"
+    },
+    "description": {
+        "en": "Based on Bootstarp style, black version",
+        "ar": "مبني على بوتسراب، النسخة السوداء"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0",
+        "max": "3.9"
+    },
+    "depend_on": "bootstrap",
+    "plugins_required": "",
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/bootstrap-black/archive/1.0.zip"
+    }
+} satisfies CatalogItem
