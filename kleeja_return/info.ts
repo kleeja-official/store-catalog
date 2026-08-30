@@ -19,7 +19,7 @@ export default {
         "max": "3.9"
     },
     "file": {
-        "version": "1.0",
-        "url": "https://github.com/kleeja-official/kleeja_return/archive/1.0.zip"
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/kleeja_return/archive/1.1.zip"
     }
 } satisfies CatalogItem
