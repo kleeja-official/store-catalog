@@ -9,6 +9,7 @@ export type CatalogItemType = 'plugin' | 'style';
 export interface LocalizedText {
     en: string;
     ar: string;
+    [key: string]: string;
 }
 
 /** Range of Kleeja versions an item is compatible with. */
